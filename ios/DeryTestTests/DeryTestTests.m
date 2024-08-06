@@ -7,11 +7,11 @@
 #define TIMEOUT_SECONDS 600
 #define TEXT_TO_LOOK_FOR @"Welcome to React"
 
-@interface MoviplexTests : XCTestCase
+@interface DeryTestTests : XCTestCase
 
 @end
 
-@implementation MoviplexTests
+@implementation DeryTestTests
 
 - (BOOL)findSubviewInView:(UIView *)view matching:(BOOL (^)(UIView *view))test
 {

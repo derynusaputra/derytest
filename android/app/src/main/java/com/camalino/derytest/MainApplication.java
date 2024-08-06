@@ -1,4 +1,4 @@
-package com.sportipay.moviplex;
+package com.camalino.derytest;
 
 import android.app.Application;
 import com.facebook.react.PackageList;

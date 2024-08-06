@@ -73,9 +73,9 @@ android {
 
     compileSdkVersion rootProject.ext.compileSdkVersion
 
-    namespace "com.sportipay.moviplex"
+    namespace "com.camalino.derytest"
     defaultConfig {
-        applicationId "com.sportipay.moviplex"
+        applicationId "com.camalino.derytest"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

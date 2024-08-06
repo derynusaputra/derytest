@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "Moviplex.app"
-               BlueprintName = "Moviplex"
-               ReferencedContainer = "container:Moviplex.xcodeproj">
+               BuildableName = "DeryTest.app"
+               BlueprintName = "DeryTest"
+               ReferencedContainer = "container:DeryTest.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "MoviplexTests.xctest"
-               BlueprintName = "MoviplexTests"
-               ReferencedContainer = "container:Moviplex.xcodeproj">
+               BuildableName = "DeryTestTests.xctest"
+               BlueprintName = "DeryTestTests"
+               ReferencedContainer = "container:DeryTest.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "Moviplex.app"
-            BlueprintName = "Moviplex"
-            ReferencedContainer = "container:Moviplex.xcodeproj">
+            BuildableName = "DeryTest.app"
+            BlueprintName = "DeryTest"
+            ReferencedContainer = "container:DeryTest.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "Moviplex.app"
-            BlueprintName = "Moviplex"
-            ReferencedContainer = "container:Moviplex.xcodeproj">
+            BuildableName = "DeryTest.app"
+            BlueprintName = "DeryTest"
+            ReferencedContainer = "container:DeryTest.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
